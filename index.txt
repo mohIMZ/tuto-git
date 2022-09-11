@@ -1,0 +1,1 @@
+bounjour a tousgit add : takes a modified file in your working directory and places the modified version in a staging
